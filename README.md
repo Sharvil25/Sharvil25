@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Passionate FrontEnd Developer | Explorer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6B&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;Open+to+Frontend+Job+Opportunities+%F0%9F%8C%9F;React+%2B+Redux+%7C+Angular+%7C+JavaScript+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F78C6B&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;Open+to+Frontend+Job+Opportunities+%F0%9F%8C%9F;ReactJS+%2B+Redux+%7C+Angular+%7C+JavaScript+Lover" alt="Typing SVG" />
 </p>
+
 
 ---
 
